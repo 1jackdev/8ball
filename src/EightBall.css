@@ -1,0 +1,22 @@
+.eightball {
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  margin-top: 5rem;
+  margin-left: 5rem;
+  align-items: center;
+  z-index: 1;
+}
+
+.message {
+  margin-top: 40%;
+  z-index: -1;
+}
+
+.reset-button {
+  margin: 20px;
+}
